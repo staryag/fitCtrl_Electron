@@ -1,0 +1,12 @@
+{
+  "name": "FitControl",
+  "version": "0.1.0",
+  "description": "FitControl application built with Electron",
+  "author": {
+    "name": "staryag",
+    "email": ""
+  },
+  "license": "MIT",
+  "main": "javascripts/main/index.js",
+  "dependencies": {}
+}
